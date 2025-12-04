@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, ExternalLink, Code, Briefcase, User, ChevronDown } from 'lucide-react';
+import { Mail } from 'lucide-react';
 
 import {PROFILE} from "../data.tsx"
 
@@ -13,9 +13,6 @@ const Footer = () => (
         <Mail size={20} />
         Hubungi Saya
       </a>
-      <div className="mt-12 pt-8 border-t border-gray-800 text-gray-500 text-sm">
-        © {new Date().getFullYear()} {PROFILE.name}. All rights reserved.
-      </div>
     </div>
   </footer>
 );

@@ -5,7 +5,6 @@ import foodWebsite from './assets/food-webiste.png'
 
 export const PROFILE = {
   name : "M Alfajry Naufal",
-  shortBio: "Membangun pengalaman web yang mudah diakses dan berkinerja tinggi. Fokus pada React, TypeScript, dan Modern UI.",
   about: "Saya adalah seorang mahasiswa yang memiliki minat dalam pengembangan web dan kecerdasan buatan. Saya terus berusaha untuk mengasah kemampuan teknis sekaligus mengembangkan keterampilan kepemimpinan. Portofolio ini menampilkan kumpulan proyek yang telah saya kerjakan, masing-masing mencerminkan semangat, keinginan untuk belajar, serta dedikasi saya dalam menciptakan solusi inovatif dan bermakna di bidang teknologi.",
   socials: {
     github: "https://github.com/IrisYoimiya",
@@ -33,6 +32,13 @@ export const EXPERIENCES = [
     company: "Binus",
     period: "2023",
     description: "Berkoordinasi dengan tim untuk memastikan kegiatan di setiap booth berjalan lancar selama acara berlangsung. Mencatat dan mengelola absensi masing-masing booth untuk memantau kehadiran dan kelancaran operasional acara."
+  },
+  {
+    id: 3,
+    role: "MENGAJAR PAUD",
+    company: "Jakarta",
+    period: "2025",
+    description: "Mengajar anak usia dini dengan pendekatan interaktif, menyiapkan materi pembelajaran harian, dan membuat laporan akhir kegiatan belajar mengajar sebagai evaluasi terhadap proses dan hasil pembelajaran. "
   }
 ];
 

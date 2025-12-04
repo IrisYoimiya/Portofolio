@@ -11,9 +11,6 @@ export const Hero = () => (
         <h1 className="text-4xl md:text-6xl font-extrabold text-gray-900 leading-tight">
           {PROFILE.name}
         </h1>
-        <p className="text-lg md:text-xl text-gray-600 max-w-2xl leading-relaxed">
-          {PROFILE.shortBio}
-        </p>
         <div className="flex gap-4 pt-4">
           <a href={PROFILE.socials.github} target="_blank" rel="noreferrer" className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors text-gray-900">
             <Github size={24} />

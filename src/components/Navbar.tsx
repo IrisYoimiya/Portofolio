@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, ExternalLink, Code, Briefcase, User, ChevronDown } from 'lucide-react';
+import { ChevronDown } from 'lucide-react';
 import React, { useState } from 'react';
 
 const Navbar = () => {

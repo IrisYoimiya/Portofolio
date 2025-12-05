@@ -15,7 +15,7 @@ export const PROFILE = {
 };
 
 export const SKILLS = [
-  "React", "TypeScript", "Laravel", "Tailwind CSS", "Python", "MySQL", "Git"
+  "React", "JavaScript", "Laravel", "Tailwind CSS", "Python", "MySQL", "Git"
 ];
 
 export const EXPERIENCES = [

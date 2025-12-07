@@ -45,7 +45,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     id: 1,
-    title: "E-Commerce Dashboard",
+    title: "Machine Learning Predictor",
     description: "Dalam proyek machine learning ini, saya membangun model untuk memprediksi genre berita menggunakan algoritma Random Forest. Selama prosesnya, saya mempelajari cara melakukan vektorisasi teks, menerapkan teknik pembersihan data, dan menyiapkan data untuk pelatihan model. Selain itu, saya juga memperoleh pengalaman dalam menerapkan model machine learning ke dalam aplikasi web menggunakan Flask, sehingga dapat digunakan secara interaktif oleh pengguna.",
     tags: ["Html & CSS", "Javascript", "Python"],
     link: "https://github.com/IrisYoimiya/News-Categorical-Predictor.git",
